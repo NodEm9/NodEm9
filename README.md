@@ -1,12 +1,8 @@
 -  Hi, 👋 I’m Emmanuel
--  Software developer as well as Web applications
-- I’m interested in  👀 ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+-  Software developer as well as Web applications 
+with a passionate and innovative mindset. Interested in continues learning and collaborating with other software and Web developers.
 
-<!---
+
+<!----
 NodEm9/NodEm9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-Frontend  Web Developer with a passionate and innovative mindset. Interested in continues learning and collaborating with other software and Web developers.
+You can click the Preview link to take a look at your ---->
