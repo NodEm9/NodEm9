@@ -1,5 +1,5 @@
 -  Hi, 👋 I’m Emmanuel
-- A software developer  frontend/backend, focus on frontend Web apps. A passionate and innovative mindset. Interested in continues learning and collaborating with other software and Web developers.
+-  Web Developer. Interested in continuing learning and collaborating with other Web developers.
 
 
 <!----
