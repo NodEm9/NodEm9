@@ -1,5 +1,5 @@
 -  Hi, 👋 I’m Emmanuel
--  Web Developer. Interested in continuing learning and collaborating with other Web developers.
+-  Full-Stack Developer. Interested in collaboration in JavaScript and Node.js applications and cloud infrastructure development.
 
 
 <!----
