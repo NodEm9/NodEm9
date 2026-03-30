@@ -1,5 +1,5 @@
--  Hi, 👋 I’m Emmanuel Full-Stack Developer.
--  Interested in collaboration in JavaScript and Node.js applications and cloud infrastructure development.
+-  Hi, 👋 I’m Emmanuel, author (Abimongo Core) and Full-Stack Developer.
+-  Interested in networking and collaboration.
 
 
 <!----
